@@ -1,0 +1,18 @@
+{
+"name":"asmita",
+"version":"1.0.0",
+"main":"order.js",
+"description":"asmita",
+"scripts":
+{
+"test":"echo \"  Echo:no test specified " && exit 1",
+"start":node order.js
+},
+"dependencies":
+{
+"express":"^4.16.4"
+}
+"author":"asmita",
+"liscense":"ISC"
+
+}
